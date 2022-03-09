@@ -56,7 +56,7 @@ def wait_for_button_b():
     return
 
 def clear_display():
-    print("----------------")
+    print("           ----------------")
 
 def write_line_to_display(text):
     if len(text) > 16:
